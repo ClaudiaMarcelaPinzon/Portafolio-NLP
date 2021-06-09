@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## PORTAFOLIO DE PROYECTOS DE NLP
 
-You can use the [editor on GitHub](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+¡Hola! Soy Claudia Pinzón, administradora pública, futura especialista en analítica estratégica de datos y estoy feliz de poder compartir algunos de los proyectos que he desarrollado en este gran e increíble universo del data science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este portafolio podrás encontrar los notebooks que creé durante el curso de NLP, donde se explica paso a paso cada tema, para que cualquier persona que tenga algo de curiosidad pueda aprender y así sigamos compartiendo información en esta comunidad abierta.
 
-### Markdown
+### Proyectos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [1. ¿Cómo importar documentos en python?](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/1.%20Importar%20archivos%20en%20formato%20zip.ipynb)
+- Cargar archivos comprimidos en formato zip
+- Leer archivos
+- Encontrar la cantidad de palabras de cada hoja dentro de un documento
 
-```markdown
-Syntax highlighted code block
+# [2. Web Scraping de wikipedia](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/2.%20Web%20Scraping%20de%20Wikipedia.ipynb)
+- Extraer contenido de varias páginas web de wikipedia
 
-# Header 1
-## Header 2
-### Header 3
+# [3. Feature Engineering](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/3.%20Pre-Procesamiento%20de%20texto%20y%20Featuring%20Engineering.ipynb)
+- Pre-procesamiento de textos: limpieza y transformación de texto, tokenización y stemming
+- Vectorización de textos
+- Creación de bolsa de palabras (BoW)
 
-- Bulleted
-- List
+# [4. Medidas de Similitud](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/4.%20Vectorizaci%C3%B3n%20y%20Medidas%20de%20Similitud.ipynb)
+- Vectorización con TF-IDF
+- Medidas de similitud para realizar comparaciones entre apartados de textos
 
-1. Numbered
-2. List
+# [5. Clasificación de Textos](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/5.%20Clasificaci%C3%B3n%20de%20Textos.%20Modelos%20de%20clasificaci%C3%B3n%20para%20NLP.ipynb)
+- Modelo de Clasificación Naive-Bayes
+- Métricas de de evaluación del modelo
+- Matriz de confusión
+- Términos más importantes de acuerdo a la categorización del texto
 
-**Bold** and _Italic_ and `Code` text
+# [6. Agrupación de textos con K-Means](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/6.%20Agrupaci%C3%B3n%20de%20textos%20con%20K-Means.ipynb)
+- Método del codo para determinar "K"
+- Entrenamiento del modelo con el "K" seleccionado
+- "Clusters" o grupos de clasificación de los textos
+- Visualización del modelo con PCA
 
-[Link](url) and ![Image](src)
-```
+# [7. Modelado de Temas](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/7.%20Modelado%20de%20temas.ipynb)
+- Modelo de LDA
+- Visualización del modelo de LDA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# [8. ¿Cómo crear nubes de palabas?](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/8.%20Nubes%20de%20Palabras.ipynb)
 
-### Jekyll Themes
+# [9. Web Scraping de Twitter](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/9.%20Web%20Scraping%20de%20Twitter.ipynb)
+- Extracción de tweets
+- Visualización de tweets con series de tiempo
+- Visualización de tweets con mapas de calor
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# [10. Análisis de sentimiento con tweets](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/10.%20An%C3%A1lisis%20de%20sentimiento%20sobre%20tweets.ipynb)
+- Análisis con Flair
+- Análisis con Vader
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Si quieres conocer más sobre mi trabajo, puedes contactarme haciendo clic aquí:
+[Claudia Pinzón](https://www.linkedin.com/in/claudia-marcela-pinzon-rojas/)
