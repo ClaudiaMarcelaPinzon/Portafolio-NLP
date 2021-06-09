@@ -1,6 +1,8 @@
 ## PORTAFOLIO DE PROYECTOS DE NLP
 
-¡Hola! Soy Claudia Pinzón, administradora pública, futura especialista en analítica estratégica de datos y estoy feliz de poder compartir algunos de los proyectos que he desarrollado en este gran e increíble universo del data science.
+¡Hola!
+
+Soy Claudia Pinzón, administradora pública, futura especialista en analítica estratégica de datos y estoy feliz de poder compartir algunos de los proyectos que he desarrollado en este gran e increíble universo del data science.
 
 En este portafolio podrás encontrar los notebooks que creé durante el curso de NLP, donde se explica paso a paso cada tema, para que cualquier persona que tenga algo de curiosidad pueda aprender y así sigamos compartiendo información en esta comunidad abierta.
 
@@ -50,5 +52,6 @@ En este portafolio podrás encontrar los notebooks que creé durante el curso de
 - Análisis con Flair
 - Análisis con Vader
 
-# Si quieres conocer más sobre mi trabajo, puedes contactarme haciendo clic aquí:
+## Si quieres conocer más sobre este trabajo y mis próximos proyectos, puedes contactarme haciendo clic aquí:
+
 ## [Claudia Pinzón](https://www.linkedin.com/in/claudia-marcela-pinzon-rojas/)
