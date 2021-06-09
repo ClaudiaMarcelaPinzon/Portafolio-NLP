@@ -52,5 +52,11 @@ En este portafolio podrás encontrar los notebooks que creé durante el curso de
 - Análisis con Flair
 - Análisis con Vader
 
+# [Proyecto NLP de Redes Sociales: Facebook](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/Proyecto.%20Facebook.ipynb)()
+- Web scraping de páginas de facebook ¿de qué hablan los migrantes?
+- 
+# [Proyecto NLP de Redes Sociales: Twitter](https://github.com/ClaudiaMarcelaPinzon/Portafolio-NLP/blob/main/Proyecto.%20Twitter.ipynb)()
+- Web scraping de twitter: ¿Realmente los comentarios en redes sociales sobre los migrantes son en su mayoría negativos?
+
 ## Si quieres conocer más sobre este trabajo y mis próximos proyectos, puedes contactarme haciendo clic aquí:
 ## [Claudia Pinzón](https://www.linkedin.com/in/claudia-marcela-pinzon-rojas/)
