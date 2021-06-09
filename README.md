@@ -53,5 +53,4 @@ En este portafolio podrás encontrar los notebooks que creé durante el curso de
 - Análisis con Vader
 
 ## Si quieres conocer más sobre este trabajo y mis próximos proyectos, puedes contactarme haciendo clic aquí:
-
 ## [Claudia Pinzón](https://www.linkedin.com/in/claudia-marcela-pinzon-rojas/)
